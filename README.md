@@ -1,2 +1,5 @@
 # hello-world
-Primo repository
+Primo repository.
+
+Qui io andrò a sperimentare [GitHub](https://github.com/) per i miei primi esperimenti.
+
